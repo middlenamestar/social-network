@@ -6,7 +6,7 @@ module.exports = {
             .then((users) => res.json(users))
             .catch((err) => res.status(500).json(err));
     },
-    getOneUser(req, res){
+    getUser(req, res){
         user.findOne({_id: req.params.userId})
             .select('-__v') //excludes version
             .then((user) =>
