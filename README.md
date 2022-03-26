@@ -1,6 +1,6 @@
 # Social Network API
 
-This application demonstrates an API using MongoDB. With a social network framework, users can manuever API routes to post thoughts, reactions, add/remove friends, create user accounts, and more.
+This application demonstrates an API highlighting MongoDB. With a social network framework, users can manuever API routes to post thoughts, reactions, add/remove friends, create user accounts, and more.
 
 ## Installation
 
